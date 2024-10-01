@@ -4,4 +4,4 @@
 # Technology 
 - Pyhton
 # Last Update:
-- 9/26/2024 7:21 PM
+- 10/01/2024 8:13 PM
